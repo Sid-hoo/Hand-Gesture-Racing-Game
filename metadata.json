@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Hand-Racer",
+  "description": "A futuristic 3D-perspective racing game controlled entirely by real-time hand gestures using MediaPipe and React.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
